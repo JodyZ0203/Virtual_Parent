@@ -1,0 +1,248 @@
+{
+   "users": [
+      {
+         "userId": "BB228",
+         "name": "Bokees Bryant",
+         "age": 6,
+         "password": "kobes232824",
+         "birthday": [
+            "2003",
+            "03",
+            "24"
+         ],
+         "country": "Canada",
+         "status": "user",
+         "tasks": [],
+         "timer": 0
+      },
+      {
+         "userId": "Ll23213",
+         "name": "Levert Lewis",
+         "age": 25,
+         "password": "progasdmer3232",
+         "birthday": [
+            "2005",
+            "05",
+            "06"
+         ],
+         "country": "Brazil",
+         "status": "user",
+         "tasks": [],
+         "timer": 0
+      },
+      {
+         "userId": "Tester1",
+         "name": "Tester1",
+         "age": 22,
+         "birthday": [
+            "0000",
+            "00",
+            "00"
+         ],
+         "password": "123456",
+         "country": "Null",
+         "status": "user",
+         "tasks": [],
+         "timer": 0
+      },
+      {
+         "userId": "king257",
+         "name": "Lebron James",
+         "age": 24,
+         "birthday": [
+            "2002",
+            "03",
+            "12"
+         ],
+         "password": "KingJames636",
+         "country": "United States",
+         "status": "user",
+         "tasks": [],
+         "timer": 0
+      },
+      {
+         "userId": "BBB0308",
+         "name": "Ball Lonzo",
+         "age": 23,
+         "password": "kball33824",
+         "birthday": [
+            "2003",
+            "03",
+            "24"
+         ],
+         "country": "Canada",
+         "status": "user",
+         "tasks": [],
+         "timer": 0
+      },
+      {
+         "userId": "Ll223213",
+         "name": "Lance Lewis",
+         "age": 25,
+         "password": "progdfamer3232",
+         "birthday": [
+            "2005",
+            "05",
+            "06"
+         ],
+         "country": "Brazil",
+         "status": "user",
+         "tasks": [],
+         "timer": 0
+      },
+      {
+         "userId": "BB08",
+         "name": "Boke Bryant",
+         "age": 16,
+         "password": "kobes824",
+         "birthday": [
+            "2003",
+            "03",
+            "24"
+         ],
+         "country": "Canada",
+         "status": "user",
+         "tasks": [],
+         "timer": 0
+      },
+      {
+         "userId": "Tester1",
+         "name": "Tester1",
+         "age": 20,
+         "birthday": [
+            "0000",
+            "00",
+            "00"
+         ],
+         "password": "123456",
+         "country": "Null",
+         "status": "user",
+         "tasks": [],
+         "timer": 0
+      },
+      {
+         "userId": "king257",
+         "name": "Lebron James",
+         "age": 24,
+         "birthday": [
+            "2002",
+            "03",
+            "12"
+         ],
+         "password": "KingJames636",
+         "country": "United States",
+         "status": "user",
+         "tasks": [],
+         "timer": 0
+      },
+      {
+         "userId": "BBB0308",
+         "name": "Ball Lonzo",
+         "age": 13,
+         "password": "kball33824",
+         "birthday": [
+            "2003",
+            "03",
+            "24"
+         ],
+         "country": "Canada",
+         "status": "user",
+         "tasks": [],
+         "timer": 0
+      },
+      {
+         "userId": "Tester1",
+         "name": "Tester1",
+         "age": 10,
+         "birthday": [
+            "0000",
+            "00",
+            "00"
+         ],
+         "password": "123456",
+         "country": "Null",
+         "status": "user",
+         "tasks": [],
+         "timer": 0
+      },
+      {
+         "userId": "king257",
+         "name": "Lebron James",
+         "age": 33,
+         "birthday": [
+            "2002",
+            "03",
+            "12"
+         ],
+         "password": "KingJames636",
+         "country": "United States",
+         "status": "user",
+         "tasks": [],
+         "timer": 0
+      },
+      {
+         "userId": "admin001",
+         "name": "Jody Zhou",
+         "age": 18,
+         "password": "Admin625326",
+         "birthday": [
+            "2002",
+            "03",
+            "24"
+         ],
+         "country": "Canada",
+         "status": "administrator"
+      },
+      {
+         "userId": "rxlove22",
+         "name": "Bekah Xing",
+         "age": 17,
+         "birthday": [],
+         "password": "jandr023",
+         "country": "null",
+         "tasks": [],
+         "timer": 0
+      },
+      {
+         "userId": "dsfjk",
+         "name": "sdafkhj",
+         "age": 42,
+         "birthday": [],
+         "password": "xsfdknskf",
+         "country": "null",
+         "status": "users",
+         "tasks": [],
+         "timer": 0
+      },
+      {
+         "userId": "jody123",
+         "name": "",
+         "age": 12,
+         "birthday": [],
+         "password": "2020grad",
+         "country": "null",
+         "status": "users",
+         "tasks": [
+            "assignment 1 in C",
+            "go lang",
+            "standalone app",
+            "data",
+            "type faster",
+            "read books",
+            "Hand in culminating"
+         ],
+         "timer": 0
+      },
+      {
+         "userId": "timo1",
+         "name": "Tim Lin",
+         "age": 7,
+         "birthday": [],
+         "password": "Q&x690099rs~",
+         "country": "null",
+         "status": "users",
+         "tasks": [],
+         "timer": 0
+      }
+   ]
+}
